@@ -38,7 +38,7 @@ modulo-2-normalizacion/
 ## Clonar el repositorio
 
 ```bash
-git clone https://github.com/karem990823/Modulo_2_Normalizacion_de_un_Sistema_de_Ventas.git
+git clone (https://github.com/nicolgomez1708-del/mini_proyecto.git)
 cd modulo-2-normalizacion
 ```
 
@@ -164,6 +164,6 @@ docker compose down
 
 ## Autor
 
-**Enrique Vasilescu Silva**
+**Paula Nicole Gomez Lopez**
 
 Mini Proyecto – Normalización de Bases de Datos (3FN)
